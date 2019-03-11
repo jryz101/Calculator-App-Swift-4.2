@@ -8,3 +8,9 @@ Build a simple iOS calculator application with auto layouts.
 3. Declare instance variables.
 3. Create functions and switch case.
 4. Implement calculation logic.
+
+## Screenshot
+
+![Screen Shot 2019-03-11 at 8 35 56 PM](https://user-images.githubusercontent.com/23055114/54124413-4f8f5c80-443d-11e9-9075-d219f8a56a8f.png)
+
+
